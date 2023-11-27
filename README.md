@@ -16,3 +16,7 @@ The VGG19 network is utilized as a feature extractor. By passing both the conten
 - NumPy
 - Matplotlib
 - PIL (Pillow)
+
+
+git clone https://github.com/yourusername/style-transfer.git
+cd style-transfer
