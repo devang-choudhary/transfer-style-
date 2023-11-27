@@ -10,9 +10,9 @@ The VGG19 network is utilized as a feature extractor. By passing both the conten
 
 
 **Getting Started**
-Prerequisites
-Python 3.x
-pytorch
-NumPy
-Matplotlib
-PIL (Pillow)
+- Prerequisites
+- Python 3.x
+- pytorch
+- NumPy
+- Matplotlib
+- PIL (Pillow)
