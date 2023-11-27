@@ -18,6 +18,6 @@ The VGG19 network is utilized as a feature extractor. By passing both the conten
 - PIL (Pillow)
 
 
-**git clone: ** 
+bash//
 https://github.com/yourusername/style-transfer.git
 cd style-transfer
